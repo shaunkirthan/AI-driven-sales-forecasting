@@ -1,0 +1,5 @@
+outs:
+- md5: 62ca5333ac0d45318433c72c2469c783
+  size: 12089916
+  hash: md5
+  path: Global_Superstore2.csv
